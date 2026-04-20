@@ -5,7 +5,7 @@ $filename = $_POST['filename']; // Original filename
 $currentChunk = $_POST['currentChunk']; // Current chunk index
 $totalChunks = $_POST['totalChunks']; // Total number of chunks
 
-// Make sure the upload directory exists
+// Make sure the upload directory exists sdffsdf
 if (!file_exists($uploadDir)) {
     mkdir($uploadDir, 0777, true);
 }
