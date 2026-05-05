@@ -10,7 +10,7 @@ if (!file_exists($uploadDir)) {
     mkdir($uploadDir, 0777, true);
 }
 
-// Temporary filename for each chunk
+// Temporary filename for each chunk changes
 $tempFile = $uploadDir . $filename . '.part' . $currentChunk;
 
 // Move the uploaded chunk to the temporary directory
