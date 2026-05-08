@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="567" height="259.801" viewBox="0 0 567 259.801">
+  <defs>
+    <filter id="Batch_Upload" x="0" y="115.801" width="567" height="144" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-color="#774815" flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="batch" transform="translate(-1282.157 -369.411)">
+    <g id="Group_304" data-name="Group 304">
+      <g transform="matrix(1, 0, 0, 1, 1282.16, 369.41)" filter="url(#Batch_Upload)">
+        <text id="Batch_Upload-2" data-name="Batch Upload" transform="translate(276.5 227.3)" fill="#fff" font-size="124.463" font-family="BebasNeueBold, Bebas Neue"><tspan x="-275.25" y="0">Batch Upload</tspan></text>
+      </g>
+    </g>
+    <path id="Path_760" data-name="Path 760" d="M1563.2,373.97l-4.539-4.559-4.539,4.559-25.708,25.709-4.559,4.539,9.1,9.1,4.539-4.539,14.742-14.742v45.531h12.854V394.035l14.742,14.742,4.539,4.539,9.1-9.1-4.539-4.539-25.708-25.709Zm-36.675,65.6V433.14h-12.854V471.7h89.979V433.14h-12.854v25.708h-64.271Z" fill="#fff"/>
+  </g>
+</svg>

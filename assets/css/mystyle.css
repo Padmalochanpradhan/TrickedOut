@@ -1,0 +1,348 @@
+.login_bg
+{
+background-image:url(../../images/login-bg.webp);background-attachment:fixed;background-size:cover;)
+}
+.login_space
+{background-color:rgba(0, 0, 0,0.6);height:100vh;}
+.form-group{
+position:relative;
+}
+.form-group .form-control-icon {
+position: absolute;
+z-index: 2;
+display: block;
+width:50px!important;
+height:50px!important;
+line-height:50px!important;
+text-align: center;
+pointer-events: none;
+color: #aaa;
+right:0;
+top: 0px;
+}
+.form-control {
+border-radius:0px!important;
+}
+.br0
+{
+border-radius:0px!important;
+}
+.botton-h
+{
+height:50px!important;
+}
+.fs1
+{
+font-size:12px;!important;
+}
+.form-check-input
+{
+background-color:transparent!important;
+border:1px solid #fff!important;
+}
+.form-check-input[type=checkbox] {
+border-radius:0px!important;
+}
+.form-control,
+.form-select {
+background-color: #fff;
+border-color: #E9E9E9;
+color: #636667;
+border-radius: 3px;
+padding: 0.65rem 1rem;
+}
+.form-control:focus,
+.form-select:focus {
+box-shadow: none!important;
+/*  border-color: #08c1e0 !important;
+*/}
+
+.form-check-input {
+border-color: #E9E9E9;
+box-shadow: none !important;
+background-color: #fff;
+}
+.form-check-input:checked {
+background-color: #08c1e0;
+/*border-color: #08c1e0;*/
+box-shadow: none;
+}
+.grad1 {
+
+background-image: url(../../assets/images/red-bot.png);
+background-size: cover;
+width:100%;
+height: 100px;
+}
+.grad2 {
+background-image: url(../../assets/images/green-bot.png);
+background-size: cover;
+width:100%;
+height: 100px;
+}
+.grad3{
+background-image: url(../../assets/images/yellow-bot.png);
+background-size: cover;
+width:100%;
+height: 100px;
+}
+.logout-back1 {
+width: 100%;
+height: 40px;
+background-color: #000;
+background-image: linear-gradient(to right, #ddd, #000);
+}
+.item {
+position:relative;
+padding-top:20px;
+display:inline-block;
+}
+.notify-badge{
+position: absolute;
+right:-20px;
+top:-37px;
+background:#ee4036;
+text-align: center;
+border-radius:50%;
+color:white;
+font-size:15px;
+line-height:30px;
+width:30px;
+height:30px;
+}
+.sidebar, .sidebar-content,.sidebar-link, a.sidebar-link
+{
+background-image: url(../../assets/images/side-bg.jpg);
+background-size: contain;
+/*	background-color:#0076b9!important;*/
+font-family:"GothamMedium"!important;
+font-weight:normal;
+z-index:999999;
+}
+.sidebar-link, a.sidebar-link
+{border:none!important;
+font-family:"GothamMedium"!important;
+font-weight:normal;
+}
+h1,h2,h3,h4,h5,h6
+{
+font-family:"Gotham"!important;
+}
+.toggle {
+position: relative;
+display: inline-block;
+}
+
+.toggle__input {
+display: none;
+}
+
+.toggle__label {
+display: block;
+width: 60px;
+height: 30px;
+background-color: var(--toggle-light);
+border-radius: 99px;
+cursor: pointer;
+transition: background-color 0.3s ease;
+}
+
+.dark-mode .toggle__label {
+background-color: var(--toggle-dark);
+}
+
+.toggle__input:checked + .toggle__label::after {
+left: 32px;
+}
+
+.toggle__label::after {
+content: '';
+position: absolute;
+top: 2px;
+left: 2px;
+width: 26px;
+height: 26px;
+background-color: #ffffff;
+border-radius: 50%;
+transition: left 0.3s ease;
+}
+.top_space
+{
+position:fixed;
+background-color:#FFF;
+width:100%;
+height:auto;
+z-index:9999;
+top:0;
+padding-top:20px;
+padding-bottom:20px;
+}
+
+.switch {
+--inactive-bg: #999;
+--active-bg: #000;
+--size: 1rem;
+appearance: none;
+width: calc(var(--size) * 2);
+height: var(--size);
+display: inline-block;
+border-radius: calc(var(--size) / 2);
+cursor: pointer;
+background-color: var(--inactive-bg);
+background-image: radial-gradient(
+circle calc(var(--size) / 4),
+#fff 100%,
+#0000 0
+),
+radial-gradient(circle calc(var(--size) / 1.5), #0003 0%, #0000 100%);
+background-repeat: no-repeat;
+background-position: calc(var(--size) / -1.8) 0;
+transition: background 0.2s ease-out;
+}
+.switch:checked {
+background-color: var(--active-bg);
+background-position: calc(var(--size) / 1.8) 0;
+}
+
+.navbar .navbar-menu-wrapper .navbar-nav .nav-item.nav-search .input-group, .navbar .navbar-menu-wrapper .navbar-nav .nav-item.nav-search .asColorPicker-wrap 
+{
+padding:0px 8px 0px 0px;!important;
+border-radius:0px!important;
+font-size:14px!important;
+
+}
+
+
+&:focus {
+outline: none!important;
+border-color: none!important;
+
+}
+.form-select
+{
+background-image:url(../images/d-arrow.svg)!important;
+}
+.text1
+{padding-top:150px;font-size:48px;font-family:Gotham;}
+
+.back_img2
+{
+background-image:url(../images/shadow.png);width:100%;/*height:180px*/background-size:cover;aspect-ratio: 1 / 1;}
+.img_style
+{border-radius:40px;border:10px solid #e5e6e6;width:100%;object-fit:cover!important;aspect-ratio: 1 / 1;
+}
+.top_img
+{background:url(../images/digital-magic.png);background-size:cover;padding:100px 20px 20px 30px;}
+
+.img_style_hydra
+{object-fit: cover;width:100%;
+}
+.container1 {
+position: relative;
+}
+/* Bottom left text */
+.bottom-left {
+position: absolute;
+bottom: 0px;
+left: -20px;
+}
+.top-right {
+position: absolute;
+top:-20px;
+right:15px;
+}
+.vault1
+{
+width:20%!important;
+float:left!important;
+display:inline-block;
+}
+.img_style_vault
+{width:100%;object-fit: cover;border-radius:6px;aspect-ratio: 1.6 / 1;
+}
+.bottom-right {
+position: absolute;
+bottom: 0px;
+right: -10px;
+}
+.v1
+{
+margin-top:80px;
+}
+.search_1
+{
+width:260px!important;font-size:12px!important;color:#000!important;}
+
+
+
+/* ------------------------------------------------- Tablet Screen : 768 -------------------*/
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+.vault1
+{
+width:33.3%!important;
+float:left!important;
+display:inline-block;
+}
+.search_1
+{
+width:200px!important;
+}
+.navbar .navbar-menu-wrapper {
+width: calc(100% - 0px);
+padding-left:2.375rem;
+padding-right:2.375rem;
+}
+.v1
+{
+margin-top:80px;
+}
+}
+/* ------------------------------------------------- Large Mobile :480px. ------------*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.vault1
+{
+width:50%!important;
+float:left!important;
+display:inline-block;
+}
+.search_1
+{
+width:auto!important;
+}
+.navbar .navbar-menu-wrapper {
+width: calc(100% - 0px);
+padding-left:2.375rem;
+padding-right:2.375rem;
+}
+.v1
+{
+margin-top:40px;
+}
+
+}
+
+/* ------------------------------- Small Mobile : 320 --------*/
+@media (max-width: 767px) {
+.vault1
+{
+width:50%!important;
+float:left!important;
+display:inline-block;
+}
+.search_1
+{
+width:auto!important;
+}
+.navbar .navbar-menu-wrapper {
+width: calc(100% - 0px);
+padding-left:2.375rem;
+padding-right:2.375rem;
+}
+.v1
+{
+margin-top:40px;
+}
+
+}

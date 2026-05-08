@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="86.371" height="86.37" viewBox="0 0 86.371 86.37">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_781" data-name="Path 781" d="M1546.451,219.074a43.186,43.186,0,1,1-43.186-43.184A43.185,43.185,0,0,1,1546.451,219.074Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="tikr" transform="translate(-1460.08 -175.89)">
+    <path id="Path_779" data-name="Path 779" d="M1546.451,219.074a43.186,43.186,0,1,1-43.186-43.184A43.185,43.185,0,0,1,1546.451,219.074Z" fill="#1faf1a"/>
+    <g id="Group_318" data-name="Group 318">
+      <g id="Group_317" data-name="Group 317" clip-path="url(#clip-path)">
+        <path id="Path_780" data-name="Path 780" d="M1549.458,210.908l-26.352-8.96-23.859,27.042-19.933-9.456,25.82,46.378,36.585-8.494,4.205-15.224Z" fill="#077d34" opacity="0.4"/>
+      </g>
+    </g>
+    <path id="Path_782" data-name="Path 782" d="M1521.971,200.743l-24.109,23.685-12.906-12.48-6.524,7.127L1498,238.326l30.917-30.208-6.3-6.687Z" fill="#fff"/>
+  </g>
+</svg>

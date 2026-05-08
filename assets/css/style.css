@@ -1,0 +1,117 @@
+@font-face { font-family: Gotham; src: url("assets/fonts/Gotham-Book.woff") format("woff"), url("fonts/Gotham-Book.woff2") format("woff2"), url("fonts/Gotham-Book.ttf") format("truetype"); font-weight: normal; }
+@font-face { font-family: GothamBold; src: url("assets/fonts/Gotham-Bold.ttf") format("truetype"); }
+@font-face { font-family: GothamMedium; src: url("assets/fonts/Gotham-Medium.ttf") format("truetype"); }
+body
+{
+font-family:"Gotham"!important;
+}
+.form-control {
+color: #dedede!important;
+font-family:"Gotham"!important;
+}
+.login_bg
+{
+background-image:url(../images/login-bg.jpg);background-attachment:fixed;background-size:cover;)
+}
+.login_space
+{background-color:rgba(4, 56, 85, 0.8);min-height:100vh;}
+.form-group{
+  position:relative;
+}
+.form-group .form-control-icon {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width:50px!important;
+    height:50px!important;
+    line-height:50px!important;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+    right:0;
+    top: 0px;
+}
+.form-control {
+ border-radius:0px!important;
+}
+.br0
+{
+ border-radius:0px!important;
+}
+.botton-h
+{
+ height:50px!important;
+}
+.fs1
+{
+	font-size:12px;!important;
+}
+.form-check-input
+{
+	background-color:transparent!important;
+	border:1px solid #fff!important;
+}
+.form-check-input[type=checkbox] {
+    border-radius:0px!important;
+}
+
+
+.form-control,
+.form-select {
+  background-color: #fff;
+  border-color: #E9E9E9;
+  color: #636667!important;
+  border-radius: 3px;
+  padding: 0.65rem 1rem;
+}
+.form-control:focus,
+.form-select:focus {
+  box-shadow: none;
+  border-color: #08c1e0 !important;
+}
+
+.form-check-input {
+  border-color: #E9E9E9;
+  box-shadow: none !important;
+  background-color: #fff;
+}
+.form-check-input:checked {
+  background-color: #08c1e0;
+  border-color: #08c1e0;
+  box-shadow: none;
+}
+.grad1 {
+  height: 100px;
+  background-color: #ff5b2c; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, #ff5b2c , #fe1f7f);
+}
+.grad2 {
+  height: 100px;
+  background-color:#0799b1; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, #0799b1 , #54a545);
+}
+.item {
+    position:relative;
+    padding-top:20px;
+    display:inline-block;
+}
+.notify-badge{
+    position: absolute;
+    right:-20px;
+    top:10px;
+    background:red;
+    text-align: center;
+    border-radius:50%;
+    color:white;
+    font-size:20px;
+	width:30px;
+	height:30px;
+}
+.sidebar, .sidebar-content,.sidebar-link, a.sidebar-link
+{background-color:#023756!important;}
+.sidebar-link, a.sidebar-link
+{border:none!important;}
+ ::placeholder {
+  color: #a6a8ab!important;
+  opacity: 1; /* Firefox */
+}

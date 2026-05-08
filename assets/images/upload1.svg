@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="716.673" height="204.974" viewBox="0 0 716.673 204.974">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.065" y1="0.5" x2="1.065" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.02" stop-color="#ededed"/>
+      <stop offset="0.073" stop-color="#c4c4c4"/>
+      <stop offset="0.129" stop-color="#a1a1a1"/>
+      <stop offset="0.188" stop-color="#848484"/>
+      <stop offset="0.251" stop-color="#6e6e6e"/>
+      <stop offset="0.32" stop-color="#5e5e5e"/>
+      <stop offset="0.397" stop-color="#545454"/>
+      <stop offset="0.505" stop-color="#525252"/>
+      <stop offset="0.596" stop-color="#555"/>
+      <stop offset="0.671" stop-color="#5f5f5f"/>
+      <stop offset="0.742" stop-color="#717171"/>
+      <stop offset="0.809" stop-color="#898989"/>
+      <stop offset="0.874" stop-color="#a9a9a9"/>
+      <stop offset="0.937" stop-color="#cfcfcf"/>
+      <stop offset="0.997" stop-color="#fcfcfc"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="0.517" cy="1.752" r="1.706" gradientTransform="translate(0.372) scale(0.255 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ccc"/>
+      <stop offset="0.073" stop-color="#aaa"/>
+      <stop offset="0.187" stop-color="#7d7d7d"/>
+      <stop offset="0.306" stop-color="#575757"/>
+      <stop offset="0.428" stop-color="#373737"/>
+      <stop offset="0.555" stop-color="#1f1f1f"/>
+      <stop offset="0.687" stop-color="#0d0d0d"/>
+      <stop offset="0.83" stop-color="#030303"/>
+      <stop offset="1"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="1.43" gradientTransform="translate(0.372) scale(0.255 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#383838"/>
+      <stop offset="0.007" stop-color="#373737"/>
+      <stop offset="0.225" stop-color="#1e1e1e"/>
+      <stop offset="0.455" stop-color="#0d0d0d"/>
+      <stop offset="0.703" stop-color="#030303"/>
+      <stop offset="1"/>
+    </radialGradient>
+    <filter id="Upload" x="225.184" y="27.866" width="305" height="144" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-color="#092306" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="upload1" transform="translate(-1181.823 -1455.534)">
+    <g id="Group_306" data-name="Group 306">
+      <path id="Rectangle_139" data-name="Rectangle 139" d="M54.192,0H662.48a54.193,54.193,0,0,1,54.193,54.193v74.468a54.193,54.193,0,0,1-54.193,54.193H54.193A54.193,54.193,0,0,1,0,128.662V54.192A54.192,54.192,0,0,1,54.192,0Z" transform="translate(1181.823 1477.653)" fill="#30cd00"/>
+      <path id="Rectangle_140" data-name="Rectangle 140" d="M54.192,0H662.48a54.193,54.193,0,0,1,54.193,54.193v74.468a54.193,54.193,0,0,1-54.193,54.193H54.193A54.193,54.193,0,0,1,0,128.662V54.192A54.192,54.192,0,0,1,54.192,0Z" transform="translate(1181.823 1477.653)" fill="url(#linear-gradient)" style="mix-blend-mode: color-burn;isolation: isolate"/>
+      <path id="Rectangle_141" data-name="Rectangle 141" d="M54.193,0H662.48a54.193,54.193,0,0,1,54.193,54.193v74.469a54.192,54.192,0,0,1-54.192,54.192H54.193A54.193,54.193,0,0,1,0,128.661V54.193A54.193,54.193,0,0,1,54.193,0Z" transform="translate(1181.823 1455.534)" fill="#30cd00"/>
+      <path id="Rectangle_142" data-name="Rectangle 142" d="M54.193,0H662.48a54.193,54.193,0,0,1,54.193,54.193v74.469a54.192,54.192,0,0,1-54.192,54.192H54.193A54.193,54.193,0,0,1,0,128.661V54.193A54.193,54.193,0,0,1,54.193,0Z" transform="translate(1181.823 1455.534)" fill="url(#radial-gradient)" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+      <g id="Group_305" data-name="Group 305" style="mix-blend-mode: color-dodge;isolation: isolate">
+        <path id="Path_761" data-name="Path 761" d="M1844.3,1460.511a49.271,49.271,0,0,1,49.215,49.215v74.469a49.272,49.272,0,0,1-49.215,49.217H1236.016a49.272,49.272,0,0,1-49.216-49.217v-74.469a49.271,49.271,0,0,1,49.216-49.215H1844.3m0-4.977H1236.016a54.192,54.192,0,0,0-54.193,54.192v74.469a54.194,54.194,0,0,0,54.193,54.193H1844.3a54.193,54.193,0,0,0,54.192-54.193v-74.469a54.192,54.192,0,0,0-54.192-54.192Z" fill="url(#radial-gradient-2)"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1181.82, 1455.53)" filter="url(#Upload)">
+      <text id="Upload-2" data-name="Upload" transform="translate(370.68 139.37)" fill="#fff" font-size="124.463" font-family="BebasNeueBold, Bebas Neue"><tspan x="-144.626" y="0">Upload</tspan></text>
+    </g>
+  </g>
+</svg>

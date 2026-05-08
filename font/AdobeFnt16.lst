@@ -1,0 +1,50 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ConduitITCPro-Bold
+FamilyName:Conduit ITC Pro
+StyleName:Bold
+MenuName:Conduit ITC Pro
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Conduit ITC Pro Bold
+WritingScript:Roman
+OutlineFileName:\ConduitITCPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:128828
+FileModTime:1235371392
+NameArray:0,Mac,4,Conduit ITC Pro Bold
+NameArray:0,Win,1,Conduit ITC Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ConduitITCPro-Light
+FamilyName:Conduit ITC Pro
+StyleName:Light
+MenuName:Conduit ITC Pro Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Conduit ITC Pro Light
+WritingScript:Roman
+OutlineFileName:\ConduitITCPro-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:127136
+FileModTime:1235371394
+NameArray:0,Mac,4,Conduit ITC Pro Light
+NameArray:0,Win,1,Conduit ITC Pro Light
+NameArray:0,Win,16,Conduit ITC Pro
+%EndFont
+

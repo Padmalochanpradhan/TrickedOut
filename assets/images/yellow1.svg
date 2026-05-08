@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="694.872" height="198.739" viewBox="0 0 694.872 198.739">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.065" y1="0.5" x2="1.065" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.02" stop-color="#ededed"/>
+      <stop offset="0.073" stop-color="#c4c4c4"/>
+      <stop offset="0.129" stop-color="#a1a1a1"/>
+      <stop offset="0.188" stop-color="#848484"/>
+      <stop offset="0.251" stop-color="#6e6e6e"/>
+      <stop offset="0.32" stop-color="#5e5e5e"/>
+      <stop offset="0.397" stop-color="#545454"/>
+      <stop offset="0.505" stop-color="#525252"/>
+      <stop offset="0.596" stop-color="#555"/>
+      <stop offset="0.671" stop-color="#5f5f5f"/>
+      <stop offset="0.742" stop-color="#717171"/>
+      <stop offset="0.809" stop-color="#898989"/>
+      <stop offset="0.874" stop-color="#a9a9a9"/>
+      <stop offset="0.937" stop-color="#cfcfcf"/>
+      <stop offset="0.997" stop-color="#fcfcfc"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="0.517" cy="1.752" r="1.706" gradientTransform="translate(0.372) scale(0.255 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ccc"/>
+      <stop offset="0.073" stop-color="#aaa"/>
+      <stop offset="0.187" stop-color="#7d7d7d"/>
+      <stop offset="0.306" stop-color="#575757"/>
+      <stop offset="0.428" stop-color="#373737"/>
+      <stop offset="0.555" stop-color="#1f1f1f"/>
+      <stop offset="0.687" stop-color="#0d0d0d"/>
+      <stop offset="0.83" stop-color="#030303"/>
+      <stop offset="1"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="1.43" gradientTransform="translate(0.372) scale(0.255 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#383838"/>
+      <stop offset="0.007" stop-color="#373737"/>
+      <stop offset="0.225" stop-color="#1e1e1e"/>
+      <stop offset="0.455" stop-color="#0d0d0d"/>
+      <stop offset="0.703" stop-color="#030303"/>
+      <stop offset="1"/>
+    </radialGradient>
+  </defs>
+  <g id="yellow1" transform="translate(-3697.187 -4830.019)">
+    <g id="Group_345" data-name="Group 345" transform="translate(1748.198 4184.051)">
+      <rect id="Rectangle_237" data-name="Rectangle 237" width="694.872" height="177.292" rx="54.193" transform="translate(1948.989 667.414)" fill="#f2ae00"/>
+      <rect id="Rectangle_238" data-name="Rectangle 238" width="694.872" height="177.292" rx="54.193" transform="translate(1948.989 667.414)" fill="url(#linear-gradient)" style="mix-blend-mode: color-burn;isolation: isolate"/>
+      <rect id="Rectangle_239" data-name="Rectangle 239" width="694.872" height="177.292" rx="54.193" transform="translate(1948.989 645.968)" fill="#f2ae00"/>
+      <rect id="Rectangle_240" data-name="Rectangle 240" width="694.872" height="177.292" rx="54.193" transform="translate(1948.989 645.968)" fill="url(#radial-gradient)" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+      <g id="Group_344" data-name="Group 344" style="mix-blend-mode: color-dodge;isolation: isolate">
+        <path id="Path_882" data-name="Path 882" d="M2591.316,650.793a47.775,47.775,0,0,1,47.72,47.719v72.2a47.775,47.775,0,0,1-47.72,47.72H2001.533a47.774,47.774,0,0,1-47.718-47.72v-72.2a47.774,47.774,0,0,1,47.718-47.719h589.783m0-4.825H2001.533a52.545,52.545,0,0,0-52.544,52.544v72.2a52.545,52.545,0,0,0,52.544,52.545h589.783a52.545,52.545,0,0,0,52.545-52.545v-72.2a52.545,52.545,0,0,0-52.545-52.544Z" fill="url(#radial-gradient-2)"/>
+      </g>
+    </g>
+    <g id="Group_346" data-name="Group 346" transform="translate(1748.198 4184.051)">
+      <path id="Path_883" data-name="Path 883" d="M2558.173,700.729l46.558,82.232h-94.1Z" fill="#fff"/>
+      <path id="Path_884" data-name="Path 884" d="M2507.188,778.215l-6.111,10.7H2615.27l-6.111-10.7-44.83-78.419-6.156-10.8-6.155,10.8Zm89.637,0h-77.3l38.651-67.646Zm-44-30.332v5.352h10.706v-24.98H2552.82Zm10.706,23.2V760.372H2552.82v10.706Z"/>
+    </g>
+  </g>
+</svg>

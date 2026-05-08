@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1153.167" height="105.472" viewBox="0 0 1153.167 105.472">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#19b0bc"/>
+      <stop offset="1" stop-color="#6abc45"/>
+    </linearGradient>
+    <filter id="Path_22" x="0" y="0" width="1153.167" height="105.472" filterUnits="userSpaceOnUse">
+      <feOffset dx="2.036" dy="2.036" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.509" result="blur"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="uploadtricks" transform="translate(-384.335 -487.982)">
+    <g id="Group_54" data-name="Group 54">
+      <g transform="matrix(1, 0, 0, 1, 384.33, 487.98)" filter="url(#Path_22)">
+        <path id="Path_22-2" data-name="Path 22" d="M1533.938,589.891H384.335V487.982h1149.6Z" transform="translate(-384.33 -487.98)" fill="url(#linear-gradient)"/>
+      </g>
+      <text id="Upload_Trick" data-name="Upload Trick" transform="translate(839.01 560.734)" fill="#fff" font-size="53.978" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Upload Trick</tspan></text>
+    </g>
+    <path id="Path_23" data-name="Path 23" d="M806.733,529.543c-16.623-6.077-13.549-2.584-17.81-19.767-6.076,16.623-2.654,13.481-19.836,17.811,16.623,6.077,13.55,2.585,17.81,19.766,6.077-16.623,2.654-13.48,19.836-17.81Z" fill="#fff" fill-rule="evenodd"/>
+    <path id="Path_24" data-name="Path 24" d="M820.562,557.76c-9.638-3.563-7.823-1.537-10.336-11.525-3.563,9.639-1.538,7.824-11.525,10.337,9.638,3.563,7.822,1.537,10.337,11.525,3.562-9.639,1.536-7.823,11.524-10.337Z" fill="#fff" fill-rule="evenodd"/>
+    <path id="Path_25" data-name="Path 25" d="M829.852,539.111c-5.518-2.025-4.47-.908-5.868-6.565-2.025,5.518-.907,4.47-6.565,5.867,5.517,2.026,4.471.908,5.867,6.565,2.025-5.517.908-4.47,6.566-5.867Z" fill="#fff" fill-rule="evenodd"/>
+    <path id="Path_26" data-name="Path 26" d="M1209.474,532.219c-7.815-2.858-6.357-1.225-8.34-9.273-2.858,7.815-1.283,6.357-9.331,8.34,7.815,2.858,6.356,1.282,8.4,9.331,2.858-7.815,1.225-6.357,9.273-8.4Z" fill="#fff" fill-rule="evenodd"/>
+    <path id="Path_27" data-name="Path 27" d="M1235.355,547.03c-13.512-4.939-11.013-2.1-14.477-16.067-4.939,13.513-2.157,10.958-16.124,14.477,13.513,4.94,11.015,2.1,14.477,16.068,4.94-13.512,2.158-10.957,16.124-14.478Z" fill="#fff" fill-rule="evenodd"/>
+  </g>
+</svg>
