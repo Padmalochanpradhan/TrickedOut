@@ -5,12 +5,12 @@ $filename = $_POST['filename']; // Original filename
 $currentChunk = $_POST['currentChunk']; // Current chunk index
 $totalChunks = $_POST['totalChunks']; // Total number of chunks
 
-// Make sure the upload directory exists sdffsdf
+// Make sure the upload directory exists
 if (!file_exists($uploadDir)) {
     mkdir($uploadDir, 0777, true);
 }
 
-// Temporary filename for each chunk changes
+// Temporary filename for each chunk
 $tempFile = $uploadDir . $filename . '.part' . $currentChunk;
 
 // Move the uploaded chunk to the temporary directory
